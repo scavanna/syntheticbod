@@ -1,0 +1,2 @@
+# Responsible AI x Vendor
+
