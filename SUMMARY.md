@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Mercado IA B2B](README.md)
-  * [Mapeo del mercado B2B de inteligencia artificial en 2026 by Claude](mercado-ia-b2b/mapeo-del-mercado-b2b-de-inteligencia-artificial-en-2026-by-claude.md)
+  * [Mapeo del mercado B2B de inteligencia artificial en 2026 by Claude](20260122-syn/mapeo-del-mercado-b2b-de-inteligencia-artificial-en-2026.md)
   * [Mapeo del mercado B2B de inteligencia artificial en 2026 by Grok-xAI](mercado-ia-b2b/mapeo-del-mercado-b2b-de-inteligencia-artificial-en-2026-by-grok-xai.md)
   * [Mapeo del mercado B2B de inteligencia artificial en 2026 by ChatGPT](mercado-ia-b2b/mapeo-del-mercado-b2b-de-inteligencia-artificial-en-2026-by-chatgpt.md)
   * [Mapeo del mercado B2B de inteligencia artificial en 2026 by Gemini](mercado-ia-b2b/mapeo-del-mercado-b2b-de-inteligencia-artificial-en-2026-by-gemini.md)
