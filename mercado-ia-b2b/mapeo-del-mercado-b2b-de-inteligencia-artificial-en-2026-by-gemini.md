@@ -47,7 +47,7 @@ En el mercado actual, las empresas ya no solo compran "un chatbot". La oferta se
 
 
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -63,7 +63,7 @@ El mercado se ha estructurado en capas, similar a una cebolla tecnológica:
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@ A diferencia de 2023 o 2024, en 2026 la diferenciación ya no es "quién tiene e
 
 
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -120,7 +120,7 @@ Hoy, una empresa en la región no solo "compra software", sino que adquiere:
 
 
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -137,7 +137,7 @@ Esta tabla clasifica a los líderes según su impacto en el mercado empresarial,
 | III. Orquestación y Agentes (Plataformas) | 1. LangChain, 2. Microsoft Copilot Studio, 3. Google Vertex AI, 4. Dify.ai, 5. CrewAI, 6. Databricks, 7. Snowflake, 8. Baidu Agentic APIs, 9. UiPath, 10. Palantir AIP, 11. Zapier Central, 12. Vercel.               |
 | IV. SaaS y Aplicaciones Especializadas    | 1. Salesforce, 2. SAP, 3. ServiceNow, 4. Huawei Pangu (Industria), 5. Samsung Business (AI B2B), 6. Adobe, 7. Workday, 8. HubSpot, 9. Zoho (IA para PyMEs), 10. C3 AI, 11. Ironclad (Legal), 12. Veeva (Salud).       |
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. ¿Por qué los jugadores asiáticos están ganando terreno en LATAM?
 
@@ -155,7 +155,7 @@ Nota sobre seguridad: La elección entre un jugador occidental o asiático en 20
 
 
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -182,7 +182,7 @@ Para las empresas en la región, la oferta se divide en cuatro grandes grupos te
 
 
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -207,7 +207,7 @@ El mercado se segmenta en cuatro categorías. A continuación, se detallan los 1
 
 
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -243,4 +243,4 @@ En 2026, la decisión de contratación en Latinoamérica depende del caso de uso
 
 
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
