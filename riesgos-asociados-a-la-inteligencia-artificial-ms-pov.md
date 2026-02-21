@@ -7,6 +7,16 @@ description: >-
 
 # Riesgos asociados a la inteligencia artificial: MS PoV
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 ## Contexto y Panorama General
 
 La inteligencia artificial generativa representa una transformación fundamental en el mundo empresarial, ofreciendo oportunidades sin precedentes para aumentar la productividad, optimizar procesos y crear nuevas capacidades competitivas. Sin embargo, esta revolución tecnológica también introduce riesgos significativos que las organizaciones deben gestionar de manera proactiva y estratégica.

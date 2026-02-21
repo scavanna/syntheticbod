@@ -1,5 +1,15 @@
 # Politicas para uso de AI en entornos corporativos - Ensayo
 
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+
+
 ## Marco de Referencia: 7 Modelos de Política de IA
 
 En organizaciones maduras, existes políticas de ciberseguridad. Simples pero amplia, concretas, implementar les, controlables, negociadas con el board, razonables y alineadas al apetito de riesgo.

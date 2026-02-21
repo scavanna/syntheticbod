@@ -1,5 +1,13 @@
 # Estado del Arte de Servicios de IA y Capacidades Cognitivas: Informe de Mercado Febrero 2026
 
+<figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 ## Estado del Arte de Servicios de IA y Capacidades Cognitivas: Informe de Mercado Febrero 2026
 
 ### 1. Resumen Ejecutivo: La Consolidación de la IA Agéntica y Soberana
