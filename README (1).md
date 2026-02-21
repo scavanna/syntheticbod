@@ -1,2 +1,2 @@
-# 20260122-Syn
+# Mercado IA B2B
 

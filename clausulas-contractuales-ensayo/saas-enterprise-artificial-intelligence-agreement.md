@@ -1,3 +1,7 @@
+---
+icon: square-ring
+---
+
 # SaaS - ENTERPRISE ARTIFICIAL INTELLIGENCE AGREEMENT
 
 

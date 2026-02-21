@@ -1,37 +1,8 @@
-# F3
+---
+icon: check
+---
 
-\
-\
-\
-<br>
-
-ANÁLISIS DE ÉTICA Y RESPONSABILIDAD EN IA
-
-16 Proveedores Globales — Informe de Due Diligence
-
-<br>
-
-\
-<br>
-
-FASE 3
-
-Documentos Públicos, Transparencia y Mecanismos de Accountability
-
-\
-\
-<br>
-
-ÍNDICES EXTERNOS UTILIZADOS
-
-Stanford FMTI 2025  |  FLI AI Safety Index Summer + Winter 2025  |  EU AI Act GPAI Code of Practice 2025
-
-\
-\
-\
-<br>
-
-Fecha de corte informativo: 20 de febrero de 2026
+# F3 - FASE 3: DOCUMENTOS PÚBLICOS, TRANSPARENCIA Y ACCOUNTABILITY
 
 ## FASE 3: DOCUMENTOS PÚBLICOS, TRANSPARENCIA Y ACCOUNTABILITY
 

@@ -1,39 +1,10 @@
-# F2
+---
+icon: check
+---
 
-\
-\
-\
-<br>
+# F2 - FASE 2: FILOSOFÍAS DE ALINEACIÓN — ANÁLISIS NARRATIVO COMPARATIVO
 
-ANÁLISIS DE ÉTICA Y RESPONSABILIDAD EN IA
 
-16 Proveedores Globales — Informe de Due Diligence
-
-<br>
-
-\
-<br>
-
-FASE 2
-
-Análisis Narrativo Comparativo de Filosofías de Alineación
-
-\
-\
-<br>
-
-CLASIFICACIÓN DE EVIDENCIA
-
-\[NIVEL 1] Documentos oficiales  \[NIVEL 2] Declaraciones públicas  \[NIVEL 3] Prácticas inferidas  \[NIVEL 4] Información no disponible
-
-\
-\
-\
-<br>
-
-Fecha de corte informativo: 20 de febrero de 2026
-
-Rol: Senior Consultant — AI Ethics, Data Governance & Technology Risk
 
 ## FASE 2: FILOSOFÍAS DE ALINEACIÓN — ANÁLISIS NARRATIVO COMPARATIVO
 

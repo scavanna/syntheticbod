@@ -1,3 +1,7 @@
+---
+icon: square-ring
+---
+
 # GLOSARIO LEGAL–TÉCNICO DE INTELIGENCIA ARTIFICIAL (Obligatorio para Contratos y Políticas)
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# Analisis conjunto 16 vendors
+# Analisis conjunto 16 vendors (En desarrollo)
 
 ### ROL Y ALCANCE
 
@@ -147,20 +147,17 @@ Tabla requerida: | Proveedor | Documento fundacional ética | URL | Fecha public
 
 Análisis narrativo
 
-1. Safety-First / Constitutional AI\
-   <br>
+1. Safety-First / Constitutional AI
 2. Definición: \[explica el concepto]
 3. Proveedores que lo practican: \[lista con evidencia]
 4. Documentos específicos: \[URLs]
 5. Diferencias entre implementaciones
-6. Responsible Release / Staged Deployment\
-   <br>
+6. Responsible Release / Staged Deployment
 7. Definición y origen del concepto
 8. Proveedores adherentes
 9. Evidencia de práctica real (no solo declaraciones)
 10. Casos donde NO se siguió (controversias documentadas)
-11. Open Science / Democratization\
-    <br>
+11. Open Science / Democratization
 12. Definición
 13. Análisis de la tensión: "open weights" vs "truly open source"
 14. Proveedores y su nivel real de apertura
@@ -185,7 +182,9 @@ Preguntas específicas a responder (con fuentes):
 
 Formato: Párrafo de 300-400 palabras por proveedor con todas las fuentes inline
 
+{% hint style="info" %}
 \--- Fase4
+{% endhint %}
 
 ### SECCIÓN 2: DOCUMENTOS PÚBLICOS Y TRANSPARENCIA
 
@@ -204,7 +203,9 @@ Checklist de documentos:
 
 Tabla de inventario: | Proveedor | System Card | Transparency Report | Red Team | Ethics Doc | Frecuencia actualización | URLs | Notas |
 
+{% hint style="info" %}
 \--- Fase5
+{% endhint %}
 
 #### 2.B. Análisis de Términos de Servicio y Políticas Públicas
 
@@ -212,8 +213,7 @@ IMPORTANTE: Esta sección analiza SOLO lo que está en ToS/Privacy Policy públi
 
 Para cada proveedor, extrae y cita textualmente:
 
-1. Uso de datos para entrenamiento:\
-   <br>
+1. Uso de datos para entrenamiento:
 2. ¿Qué dice EXACTAMENTE el ToS sobre uso de inputs del usuario?
 3. Diferencia: API empresarial vs. producto consumer
 4. Cita textual + URL + sección específica
@@ -238,7 +238,9 @@ Para cada proveedor, extrae y cita textualmente:
 * ¿Hay menciones a indemnización? (si es público)
 * ¿Disclaimers sobre contenido con derechos de autor en training data?
 
+{% hint style="info" %}
 \--- Fase6
+{% endhint %}
 
 #### 2.C. Contratos Enterprise: Lo que SÍ sabemos públicamente
 
@@ -259,7 +261,9 @@ Temas a cubrir (solo si hay info pública):
 * Compliance certifications publicadas (SOC2, ISO, HIPAA, GDPR)
 * SLAs publicados vs. standard ToS
 
+{% hint style="info" %}
 \--- Fase7
+{% endhint %}
 
 ### SECCIÓN 3: ESTADO DEL ARTE DE DILEMAS ÉTICOS (2024-2026)
 
@@ -271,15 +275,13 @@ Pregunta central: ¿Bajo qué condiciones es ético permitir que IA tome accione
 
 Subtemas a desarrollar:
 
-* Agentic AI / AI Agents:\
-  <br>
+* Agentic AI / AI Agents:
 * Definición técnica actual
 * Capacidades documentadas (ej: function calling, tool use)
 * Riesgos identificados en literatura académica
 * Frameworks propuestos: Human-in-the-loop, Human-on-the-loop, Human-in-command
 * Papers clave: \[listar 3-5 con URLs]
-* Economic Agency:\
-  <br>
+* Economic Agency:
 * ¿Deberían agentes poder gastar dinero?
 * Casos de uso actuales (ej: automatic bidding, procurement)
 * Regulatory frameworks emergentes
@@ -289,7 +291,9 @@ Fuentes requeridas:
 * Mínimo 5 papers académicos (Arxiv, ACM, NeurIPS)
 * Posiciones de al menos 3 proveedores de IA sobre agentes autónomos
 
+{% hint style="info" %}
 \--- Fase8
+{% endhint %}
 
 **2. INTEGRIDAD DE DATOS Y MODEL COLLAPSE**
 
@@ -308,7 +312,9 @@ Papers clave a referenciar:
 * \[Buscar estudios de 2023-2024 sobre este fenómeno]
 * Análisis de watermarking como solución
 
+{% hint style="info" %}
 \--- Fase9
+{% endhint %}
 
 **3. FUTURO DEL TRABAJO**
 
@@ -316,25 +322,24 @@ Pregunta central: Displacement vs. Augmentation - ¿qué dice la evidencia actua
 
 Análisis requerido (600 palabras):
 
-* Estudios empíricos recientes:\
-  <br>
+* Estudios empíricos recientes:
 * Cita estudios específicos sobre impacto medible (ej: programadores con Copilot)
 * Sectores más afectados según research
 * Diferencia entre "automation anxiety" y automation real
-* Frameworks propuestos:\
-  <br>
+* Frameworks propuestos:
 * Taxonomías de tareas automatizables (ej: Moravec's Paradox actualizado)
 * Concepto de "Centaur workers" (human + AI)
 * Upskilling vs. reskilling debates
-* Posiciones de stakeholders:\
-  <br>
+* Posiciones de stakeholders:
 * Proveedores de IA: \[sus narrativas públicas con citas]
 * Organizaciones laborales: \[posiciones documentadas]
 * Gobiernos: \[políticas emergentes EU, US, UK]
 
 Fuentes: Mínimo 8 fuentes diversas (académicas, think tanks, reportes gubernamentales)
 
+{% hint style="info" %}
 \--- Fase10
+{% endhint %}
 
 **4. BIAS, FAIRNESS Y REPRESENTACIÓN**
 
@@ -345,7 +350,9 @@ Subtemas:
 * Stereotyping y representación: estudios empíricos
 * Técnicas de mitigación y su efectividad demostrada
 
+{% hint style="info" %}
 \--- Fase11
+{% endhint %}
 
 **5. TRANSPARENCIA Y EXPLICABILIDAD**
 
@@ -354,7 +361,9 @@ Subtemas:
 * Regulatory requirements emergentes (EU AI Act)
 * Proveedores que publican eval datasets
 
+{% hint style="info" %}
 \--- Fase12
+{% endhint %}
 
 **6. OTROS DILEMAS EMERGENTES**
 
@@ -363,7 +372,9 @@ Subtemas:
 * Desinformación at scale
 * Dual use y weaponization
 
+{% hint style="info" %}
 \--- Fase13
+{% endhint %}
 
 ### SECCIÓN 4: ANÁLISIS VERTICAL POR SECTORES CRÍTICOS
 
@@ -373,80 +384,74 @@ Subtemas:
 
 Subsecciones obligatorias:
 
-1. Regulatory Landscape:\
-   <br>
+1. Regulatory Landscape:
 2. HIPAA (US) requirements para IA en salud
 3. GDPR special categories (health data)
 4. FDA guidance sobre AI/ML in medical devices
 5. Posición de AMA (American Medical Association) sobre AI
-6. Riesgos Específicos Documentados:\
-   <br>
-7. Antropomorfización terapéutica:\
-   <br>
+6. Riesgos Específicos Documentados:
+7. Antropomorfización terapéutica:
 8. Estudios sobre dependencia emocional en chatbots de salud mental
 9. Papers sobre "therapeutic alliance" con IA
 10. Casos de Replika,[ Character.AI](http://character.ai) (citar incidentes reportados)
-11. Accuracy en diagnóstico:\
-    <br>
+11. Accuracy en diagnóstico:
 12. Benchmarks de AI en medical diagnosis (citar estudios)
 13. Casos de failure modes documentados
 14. Comparative performance: AI vs. médicos vs. AI+médicos
-15. Privacy y confidencialidad:\
-    <br>
+15. Privacy y confidencialidad:
 16. Análisis de ToS de apps de salud mental que usan IA
 17. Data breaches documentados (si existen)
 18. Posición de proveedores sobre HIPAA compliance
-19. Guidelines y Best Practices Emergentes:\
-    <br>
+19. Guidelines y Best Practices Emergentes:
 20. WHO guidance on AI in healthcare
 21. Clinical practice guidelines que mencionan IA
 22. Positions de colegios médicos/psicológicos
 
+{% hint style="info" %}
 \--- Fase14
+{% endhint %}
 
 **4.B. LEGAL**
 
 Subsecciones:
 
-1. El Problema de las Alucinaciones en Contexto Legal:\
-   <br>
+1. El Problema de las Alucinaciones en Contexto Legal:
 2. Casos documentados de abogados citando jurisprudencia falsa
 3. Análisis de benchmarks: accuracy en legal reasoning
 4. Posición de Bar Associations sobre uso de IA
-5. Confidencialidad Cliente-Abogado:\
-   <br>
+5. Confidencialidad Cliente-Abogado:
 6. Análisis: ¿usar ChatGPT rompe attorney-client privilege?
 7. Guías de colegios de abogados (ABA, etc.)
 8. Implicaciones en ToS de proveedores
-9. Regulación del Uso de IA en Legal Services:\
-   <br>
+9. Regulación del Uso de IA en Legal Services:
 10. EU AI Act: implicaciones para legal AI
 11. State bar rules (US)
 12. Emerging case law
 
+{% hint style="info" %}
 \--- Fase15
+{% endhint %}
 
 **4.C. EDUCACIÓN Y PEDAGOGÍA**
 
 Subsecciones:
 
-1. Impacto en Pensamiento Crítico y Aprendizaje:\
-   <br>
+1. Impacto en Pensamiento Crítico y Aprendizaje:
 2. Estudios empíricos sobre uso de LLMs en educación
 3. Debate: ¿calculadora o muleta?
 4. Research sobre retention y deep learning
-5. Integridad Académica:\
-   <br>
+5. Integridad Académica:
 6. Estado del arte en detección de AI-generated content
 7. Políticas de universidades (survey de top 20)
 8. Efectividad de herramientas de detección (cita estudios)
-9. Equidad y Acceso:\
-   <br>
+9. Equidad y Acceso:
 10. Digital divide en acceso a IA educativa
 11. Costos de herramientas premium vs. free tier
 12. Impacto en estudiantes con necesidades especiales
 
+{% hint style="info" %}
 \--- Fase16
+{% endhint %}
 
 **4.D. OTROS SECTORES (más breve)**
 
@@ -458,7 +463,9 @@ Extensión por sector: 300-400 palabras con 3-4 fuentes
 
 ***
 
+{% hint style="info" %}
 \--- Fase17
+{% endhint %}
 
 ### SECCIÓN 5: ANÁLISIS CRÍTICO Y GAPS
 
@@ -470,7 +477,9 @@ Genera esta tabla resumen:
 
 Criterios de scoring (explícita el rubric que usas)
 
+{% hint style="info" %}
 \--- Fase18
+{% endhint %}
 
 #### 5.B. Brechas entre Retórica y Práctica
 
@@ -482,7 +491,9 @@ Identifica casos donde hay discrepancia entre:
 
 Requiere: Evidencia específica para cada discrepancia alegada
 
+{% hint style="info" %}
 \--- Fase19
+{% endhint %}
 
 #### 5.C. Información No Disponible (Visibility Gaps)
 

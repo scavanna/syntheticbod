@@ -1,3 +1,7 @@
+---
+icon: square-ring
+---
+
 # Curso 60 hs
 
 

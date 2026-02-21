@@ -1,5 +1,6 @@
 ---
 description: (listas para copiar/pegar en contratos)
+icon: square-ring
 ---
 
 # 20 CLAUSULAS CONTRACTUALES PARA EL USO EMPRESARIAL DE  LLMs / IA GENERATIVA

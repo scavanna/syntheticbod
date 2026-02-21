@@ -1,8 +1,8 @@
-# F1
+---
+icon: check
+---
 
-Perfecto. Voy a realizar búsquedas web para verificar los documentos fundacionales actuales de cada proveedor antes de construir la tabla.Tengo suficiente información recopilada. Procedo a construir la Fase 1 completa.
-
-***
+# F1 - ANÁLISIS ÉTICO Y DE RESPONSABILIDAD: PROVEEDORES DE IA
 
 ## ANÁLISIS ÉTICO Y DE RESPONSABILIDAD: PROVEEDORES DE IA
 

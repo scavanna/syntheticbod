@@ -1,3 +1,7 @@
+---
+icon: square-ring
+---
+
 # APPENDIX – CONDICIONES ESPECIALES PARA EL USO DE SERVICIOS DE INTELIGENCIA ARTIFICIAL (IA)
 
 <figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
