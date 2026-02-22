@@ -4,6 +4,22 @@ icon: check
 
 # F3 - FASE 3: DOCUMENTOS PÚBLICOS, TRANSPARENCIA Y ACCOUNTABILITY
 
+**§3.1 Stanford FMTI 2025** — Tabla completa de los 13 proveedores evaluados + los 5 restantes del análisis, con puntajes, tendencia vs. 2024, punto máximo divulgado y gap crítico. Hallazgos clave: declive generalizado (promedio cayó de 58 a 40/100), IBM lidera con 95/100, Meta cayó 29 puntos, xAI obtuvo 11/100 (último), impacto ambiental es el punto ciego universal de la industria.
+
+**§3.2 FLI AI Safety Index Summer + Winter 2025** — Tabla de calificaciones (A-F) para los 8 laboratorios en 6 dominios. Hallazgo central: ningún laboratorio obtuvo más de C+ en el índice general, y todos obtuvieron D o F en _Existential Safety_. Análisis específico por laboratorio con fortalezas y debilidades documentadas.
+
+**§3.3 EU AI Act GPAI Code of Practice** — Marco regulatorio vinculante en vigor desde agosto 2025. Tabla de posición regulatoria de los 16 proveedores: quiénes son firmantes, qué capítulos suscribieron, si son systemic risk (>10²⁵ FLOPs), e implicancias. Caso destacado: xAI firmó solo el capítulo Safety pero no Transparencia ni Copyright — situación señalada explícitamente por la Comisión Europea.
+
+**§3.4 System Cards y Model Cards** — Matriz de documentación técnica por proveedor: disponibilidad de system card, model card, red team report y safety eval hub público, con inconsistencias documentadas (ej. GPT-4.1 sin system card, Llama 4 sin reporte técnico, Grok 4 sin ningún documento).
+
+**§3.5 Mecanismos de Accountability** — Análisis de efectividad de 7 mecanismos (índices académicos, EU AI Act, Seoul Commitments, bug bounty, investigaciones regulatorias, whistleblowing, cross-lab evals) con cuatro gaps sistémicos estructurales identificados.
+
+**§3.6 Tabla de Triangulación Consolidada** — Los 16 proveedores evaluados simultáneamente en FMTI + FLI + EU GPAI Code, con evaluación consolidada para due diligence.
+
+**§3.7 Referencias** — 23 referencias adicionales \[R41–R63].
+
+
+
 ## FASE 3: DOCUMENTOS PÚBLICOS, TRANSPARENCIA Y ACCOUNTABILITY
 
 <br>

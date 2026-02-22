@@ -4,6 +4,30 @@ icon: check
 
 # F2 - FASE 2: FILOSOFÍAS DE ALINEACIÓN — ANÁLISIS NARRATIVO COMPARATIVO
 
+**Estructura del documento:**
+
+**§2.1 Mapa Conceptual** — Tabla inicial clasificando los 16 proveedores en 5 corrientes filosóficas con mecanismo técnico principal de cada una.
+
+**§2.2 Safety-First / Long-termism** (Anthropic + Google/DeepMind) — Análisis técnico del Constitutional AI/RLAIF vs. Amplified Oversight; tensiones documentadas de RSP v2.2 y jailbreaks de Gemini 3.
+
+**§2.3 Responsible Release** (OpenAI + Microsoft) — Deliberative Alignment, Preparedness Framework v2, red teaming de GPT-5 (5,000+ horas / 400+ expertos), ejercicio piloto inter-laboratorial OpenAI-Anthropic.
+
+**§2.4 Open Science / Democratización** (Meta + IBM + Databricks) — Filosofía anti-centralización de LeCun, crisis de Llama 4, AI Risk Atlas de IBM, downstream responsibility de Databricks.
+
+**§2.5 Plataformas / Habilitadores** (AWS, Snowflake, Teradata, Cloudera) — Modelo de responsabilidad compartida, governance delegada, espectro de madurez.
+
+**§2.6 Regulatorio Nacional / China** (Alibaba, Tencent, Huawei) — TC260, GenAI Measures 2023, comparación estructural de los frameworks chinos.
+
+**§2.7 Casos Atípicos** (xAI + Oracle) — xAI como caso más crítico con cronología de incidentes; Oracle con principios sin implementación verificable.
+
+**§2.8 Tabla Comparativa** — 16 proveedores × 5 dimensiones filosóficas con nivel de evidencia.
+
+**§2.9 Tensiones Estructurales** — 3 tensiones cross-cutting: velocidad comercial vs. rigor, transparencia vs. confidencialidad, gobernanza global vs. soberanía regulatoria.
+
+**§2.10 Referencias** — 40 referencias adicionales a Fase 1, todas con nivel de evidencia explícito.
+
+
+
 
 
 ## FASE 2: FILOSOFÍAS DE ALINEACIÓN — ANÁLISIS NARRATIVO COMPARATIVO
